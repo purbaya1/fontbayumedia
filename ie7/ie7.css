@@ -1,3 +1,60 @@
+.bms-blogger {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedba;');
+}
+.bms-blogger-b {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedbb;');
+}
+.bms-facebook {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedbc;');
+}
+.bms-facebook-f {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedbd;');
+}
+.bms-facebook-messenger {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedbe;');
+}
+.bms-facebook-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedbf;');
+}
+.bms-google {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc0;');
+}
+.bms-google-drive {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc1;');
+}
+.bms-google-play {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc2;');
+}
+.bms-google-plus {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc3;');
+}
+.bms-google-plus-g {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc4;');
+}
+.bms-google-plus-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc5;');
+}
+.bms-google-wallet {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc6;');
+}
+.bms-twitter {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc7;');
+}
+.bms-twitter-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc8;');
+}
+.bms-blogger-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedc9;');
+}
+.bms-facebook-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedca;');
+}
+.bms-twitter-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedcb;');
+}
+.bms-google-plus-circle {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedcc;');
+}
 .bms-baju-anak-laki-laki {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedb0;');
 }

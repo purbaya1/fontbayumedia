@@ -13,6 +13,8 @@
 		el.innerHTML = '<span style="font-family: \'Bayu-Media-Solid\'">' + entity + '</span>' + html;
 	}
 	var icons = {
+		'bms-whatsapp': '&#xedcd;',
+		'bms-whatsapp-square': '&#xedce;',
 		'bms-blogger': '&#xedba;',
 		'bms-blogger-b': '&#xedbb;',
 		'bms-facebook': '&#xedbc;',

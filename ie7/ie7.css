@@ -1,3 +1,9 @@
+.bms-whatsapp {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedcd;');
+}
+.bms-whatsapp-square {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedce;');
+}
 .bms-blogger {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xedba;');
 }

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Bayu-Media-Solid';
-  src:  url('fonts/Bayu-Media-Solid.eot?dkfhef');
-  src:  url('fonts/Bayu-Media-Solid.eot?dkfhef#iefix') format('embedded-opentype'),
-    url('fonts/Bayu-Media-Solid.ttf?dkfhef') format('truetype'),
-    url('fonts/Bayu-Media-Solid.woff?dkfhef') format('woff'),
-    url('fonts/Bayu-Media-Solid.svg?dkfhef#Bayu-Media-Solid') format('svg');
+  src:  url('fonts/Bayu-Media-Solid.eot?503unn');
+  src:  url('fonts/Bayu-Media-Solid.eot?503unn#iefix') format('embedded-opentype'),
+    url('fonts/Bayu-Media-Solid.ttf?503unn') format('truetype'),
+    url('fonts/Bayu-Media-Solid.woff?503unn') format('woff'),
+    url('fonts/Bayu-Media-Solid.svg?503unn#Bayu-Media-Solid') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -27,50 +27,32 @@ i {
 .bms-baju-anak-laki-laki:before {
   content: "\edb0";
 }
-.bms-baju-anak-laki-laki-grs:before {
+.bms-baju-anak-perempuan:before {
   content: "\edb1";
 }
-.bms-baju-anak-perempuan:before {
+.bms-baju-batik-laki-laki:before {
   content: "\edb2";
 }
-.bms-baju-anak-perempuan-grs:before {
+.bms-baju-batik-wanita:before {
   content: "\edb3";
 }
 .bms-baju-laki-laki:before {
   content: "\edb4";
 }
-.bms-baju-laki-laki-grs:before {
+.bms-baju-muslim-anak-laki-laki:before {
   content: "\edb5";
 }
-.bms-baju-muslim-anak-laki-laki:before {
+.bms-baju-muslim-anak-perempuan:before {
   content: "\edb6";
 }
-.bms-baju-muslim-anak-laki-laki-grs:before {
+.bms-baju-muslim-laki-laki:before {
   content: "\edb7";
 }
-.bms-baju-muslim-anak-perempuan:before {
+.bms-baju-muslim-wanita:before {
   content: "\edb8";
 }
-.bms-baju-muslim-anak-perempuan-grs:before {
-  content: "\edb9";
-}
-.bms-baju-muslim-laki-laki:before {
-  content: "\edba";
-}
-.bms-baju-muslim-laki-laki-grs:before {
-  content: "\edbb";
-}
-.bms-baju-muslim-wanita:before {
-  content: "\edbc";
-}
-.bms-baju-muslim-wanita-grs:before {
-  content: "\edbd";
-}
 .bms-baju-wanita:before {
-  content: "\edbe";
-}
-.bms-baju-wanita-grs:before {
-  content: "\edbf";
+  content: "\edb9";
 }
 .bms-abacus:before {
   content: "\e900";

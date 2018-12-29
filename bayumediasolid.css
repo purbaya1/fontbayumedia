@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'Bayu-Media-Solid';
-  src:  url('fonts/Bayu-Media-Solid.eot?503unn');
-  src:  url('fonts/Bayu-Media-Solid.eot?503unn#iefix') format('embedded-opentype'),
-    url('fonts/Bayu-Media-Solid.ttf?503unn') format('truetype'),
-    url('fonts/Bayu-Media-Solid.woff?503unn') format('woff'),
-    url('fonts/Bayu-Media-Solid.svg?503unn#Bayu-Media-Solid') format('svg');
+  src:  url('fonts/Bayu-Media-Solid.eot?ueg8d9');
+  src:  url('fonts/Bayu-Media-Solid.eot?ueg8d9#iefix') format('embedded-opentype'),
+    url('fonts/Bayu-Media-Solid.ttf?ueg8d9') format('truetype'),
+    url('fonts/Bayu-Media-Solid.woff?ueg8d9') format('woff'),
+    url('fonts/Bayu-Media-Solid.svg?ueg8d9#Bayu-Media-Solid') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,63 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.bms-blogger:before {
+  content: "\edba";
+}
+.bms-blogger-b:before {
+  content: "\edbb";
+}
+.bms-facebook:before {
+  content: "\edbc";
+}
+.bms-facebook-f:before {
+  content: "\edbd";
+}
+.bms-facebook-messenger:before {
+  content: "\edbe";
+}
+.bms-facebook-square:before {
+  content: "\edbf";
+}
+.bms-google:before {
+  content: "\edc0";
+}
+.bms-google-drive:before {
+  content: "\edc1";
+}
+.bms-google-play:before {
+  content: "\edc2";
+}
+.bms-google-plus:before {
+  content: "\edc3";
+}
+.bms-google-plus-g:before {
+  content: "\edc4";
+}
+.bms-google-plus-square:before {
+  content: "\edc5";
+}
+.bms-google-wallet:before {
+  content: "\edc6";
+}
+.bms-twitter:before {
+  content: "\edc7";
+}
+.bms-twitter-square:before {
+  content: "\edc8";
+}
+.bms-blogger-circle:before {
+  content: "\edc9";
+}
+.bms-facebook-circle:before {
+  content: "\edca";
+}
+.bms-twitter-circle:before {
+  content: "\edcb";
+}
+.bms-google-plus-circle:before {
+  content: "\edcc";
+}
 .bms-baju-anak-laki-laki:before {
   content: "\edb0";
 }
